@@ -1,0 +1,409 @@
+<div class="MacbookAir1" style="width: 1280px; height: 1866px; position: relative; background: white">
+  <div class="Frame96" style="padding-top: 35px; padding-bottom: 10px; padding-right: 10px; left: -10px; top: -38px; position: absolute; justify-content: flex-start; align-items: center; display: inline-flex">
+    <div class="Frame113" style="width: 1290px; align-self: stretch; padding-left: 25px; padding-right: 25px; padding-top: 17px; padding-bottom: 17px; background: #B40000; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: inline-flex">
+      <div class="Frame99" style="width: 1231px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div class="Frame98" style="height: 84px; justify-content: space-between; align-items: flex-end; display: flex">
+          <img class="Ellipse11" style="width: 84px; height: 84px; border-radius: 9999px" src="https://via.placeholder.com/84x84" />
+          <div class="Dream111" style="padding-left: 15px; padding-right: 14.62px; justify-content: center; align-items: center; display: flex">
+            <div class="Frame101" style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 21px; display: inline-flex">
+              <div class="Group8" style="width: 64.38px; height: 63.18px; position: relative">
+                <div class="Vector" style="width: 64.38px; height: 63.18px; left: 0px; top: 0px; position: absolute; background: white"></div>
+                <div class="Vector" style="width: 5.92px; height: 20.93px; left: 30.66px; top: 12.05px; position: absolute; background: white"></div>
+                <div class="Vector5" style="width: 7.31px; height: 2.04px; left: 27.33px; top: 5.66px; position: absolute; border: 3px white solid"></div>
+                <div class="Vector4" style="width: 27.29px; height: 44.68px; left: 19.29px; top: 4.12px; position: absolute; border: 3px white solid"></div>
+              </div>
+              <div class="Jazz" style="text-align: center; color: white; font-size: 48px; font-family: Kumar One; font-weight: 400; word-wrap: break-word">Jazz</div>
+            </div>
+          </div>
+        </div>
+        <div class="Frame97" style="padding-left: 23px; padding-right: 23px; justify-content: flex-start; align-items: center; gap: 63px; display: flex">
+          <div class="MaterialSymbolsNotificationsOutlineRounded" style="width: 38px; height: 38px; padding-left: 6.33px; padding-right: 6.33px; padding-top: 3.17px; padding-bottom: 3.17px; justify-content: center; align-items: center; display: flex">
+            <div class="Vector" style="width: 25.33px; height: 31.67px; background: white"></div>
+          </div>
+          <div class="MaterialSymbolsAccountBalanceWalletOutline" style="width: 38px; height: 38px; padding-top: 4.75px; padding-bottom: 4.75px; padding-left: 4.75px; padding-right: 3.17px; justify-content: center; align-items: center; display: flex">
+            <div class="Vector" style="width: 30.08px; height: 28.50px; background: white"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="Frame100" style="width: 879px; left: 350px; top: 153px; position: absolute; justify-content: flex-start; align-items: center; gap: 141px; display: inline-flex">
+    <div class="TabCricket" style="width: 64px; height: 55px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 3px; display: inline-flex">
+      <div class="BxsCricketBall" style="width: 20px; height: 20px; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Vector" style="width: 20px; height: 20px; background: #E10103"></div>
+      </div>
+      <div class="Cricket" style="text-align: center; color: #B40000; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">Cricket</div>
+      <div class="Rectangle8" style="width: 47px; height: 3px; background: #E10103"></div>
+    </div>
+    <div class="TabBasketball" style="width: 66px; height: 56px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 3px; display: inline-flex">
+      <div class="Vector" style="width: 20px; height: 20px; background: #8F8F8F"></div>
+      <div class="Basketball" style="text-align: center; color: #8F8F8F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">Basketball</div>
+      <div class="Rectangle8" style="width: 47px; height: 3px"></div>
+    </div>
+    <div class="TabBaseball" style="width: 63px; height: 55px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 3px; display: inline-flex">
+      <div class="Vector" style="width: 20px; height: 20px; background: #949494"></div>
+      <div class="Baseball" style="text-align: center; color: #8F8F8F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">Baseball</div>
+      <div class="Rectangle8" style="width: 47px; height: 3px"></div>
+    </div>
+    <div class="TabFootball" style="width: 64px; height: 55px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 3px; display: inline-flex">
+      <div class="Group2" style="width: 20px; height: 20px; position: relative">
+        <div class="Vector" style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; background: #949494"></div>
+        <div class="Vector" style="width: 7px; height: 6.49px; left: 6.50px; top: 6.50px; position: absolute; background: #949494"></div>
+      </div>
+      <div class="Football" style="text-align: center; color: #8F8F8F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">Football</div>
+      <div class="Rectangle8" style="width: 47px; height: 3px"></div>
+    </div>
+    <div class="TabHokey" style="width: 63px; height: 56px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 3px; display: inline-flex">
+      <div class="EmojioneMonotoneFieldHockey" style="width: 20px; height: 20px; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Vector" style="width: 20px; height: 20px; background: #949494"></div>
+      </div>
+      <div class="Hokey" style="text-align: center; color: #8F8F8F; font-size: 14px; font-family: Inter; font-weight: 700; word-wrap: break-word">Hokey</div>
+      <div class="Rectangle8" style="width: 47px; height: 3px"></div>
+    </div>
+  </div>
+  <div class="MaskGroup" style="width: 970px; height: 364px; left: 315px; top: 230px; position: absolute">
+    <div class="Rectangle44" style="width: 970px; height: 364px; left: 0px; top: 0px; position: absolute; background: linear-gradient(0deg, rgba(143, 143, 143, 0.39) 0%, rgba(143, 143, 143, 0.39) 100%)"></div>
+    <div class="CricketerFieldAction1" style="width: 970px; height: 683.08px; left: 0px; top: 3.10px; position: absolute; background: linear-gradient(0deg, rgba(143, 143, 143, 0.39) 0%, rgba(143, 143, 143, 0.39) 100%)"></div>
+  </div>
+  <div class="Frame111" style="height: 238px; left: 338px; top: 445px; position: absolute; background: white; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 15px; display: inline-flex">
+    <div class="Frame116" style="align-self: stretch; height: 172px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <div class="Frame110" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: flex-end; display: inline-flex">
+        <div class="EnglandVsPakistanTest" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England vs Pakistan Test</div>
+        <div class="BxBellPlus" style="width: 34px; height: 34px; position: relative">
+          <div class="Vector" style="width: 11.23px; height: 11.23px; left: 11.39px; top: 9.97px; position: absolute; background: #ACACAC"></div>
+          <div class="Vector" style="width: 25.50px; height: 28.33px; left: 4.25px; top: 2.83px; position: absolute; background: #ACACAC"></div>
+        </div>
+      </div>
+      <div class="Frame115" style="align-self: stretch; height: 128px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Vector7" style="align-self: stretch; height: 0px; border: 1px #ACACAC solid"></div>
+        <div class="Frame114" style="align-self: stretch; height: 118px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="Frame106" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: center; display: inline-flex">
+            <div class="England" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England </div>
+            <div class="Pakistan" style="text-align: right; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pakistan</div>
+          </div>
+          <div class="Frame105" style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+            <div class="Frame102" style="justify-content: flex-start; align-items: center; gap: 17px; display: flex">
+              <div class="Group9" style="width: 129px; height: 84px; position: relative">
+                <div class="Rectangle46" style="width: 63px; height: 48px; left: 0px; top: 15px; position: absolute; background: #CF091F"></div>
+                <img class="Ellipse12" style="width: 84px; height: 84px; left: 45px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+              </div>
+              <div class="Eng" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">ENG</div>
+            </div>
+            <div class="TimeStatus" style="justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+              <div class="Ellipse4" style="width: 9px; height: 9px; transform: rotate(180deg); transform-origin: 0 0; background: #119E3A; border-radius: 9999px"></div>
+              <div class="Completed" style="text-align: center; color: #119E3A; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">COMPLETED</div>
+            </div>
+            <div class="Frame103" style="justify-content: center; align-items: center; display: flex">
+              <div class="Frame104" style="align-self: stretch; justify-content: flex-end; align-items: center; gap: 17px; display: inline-flex">
+                <div class="Pak" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">PAK</div>
+                <div class="Group9" style="width: 135px; height: 84px; position: relative">
+                  <div class="Rectangle46" style="width: 63px; height: 48px; left: 72px; top: 18px; position: absolute; background: rgba(73, 110, 45, 0.88)"></div>
+                  <img class="Ellipse12" style="width: 84px; height: 84px; left: 84px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame109" style="align-self: stretch; height: 51px; padding-top: 10px; padding-bottom: 10px; padding-left: 41px; padding-right: 29px; background: #F5F5F5; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-top-left-radius: 12px; border-top-right-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+      <div class="Frame108" style="align-self: stretch; padding-left: 5px; padding-right: 18px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div class="TeamOrMega" style="width: 65px; height: 29px; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+          <div style="color: #1A1A1A; font-size: 14px; font-family: Roboto; font-weight: 700; word-wrap: break-word">1</div>
+          <div class="Team" style="color: #797979; font-size: 14px; font-family: Roboto; font-weight: 400; word-wrap: break-word">Team</div>
+        </div>
+        <div class="Frame107" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+          <div class="MajesticonsTShirtLine" style="width: 26px; height: 26px; position: relative">
+            <div class="Vector" style="width: 19.50px; height: 20.22px; left: 3.25px; top: 4.33px; position: absolute; border: 1.62px #ACACAC solid"></div>
+            <div class="Ellipse5" style="width: 13px; height: 13px; left: 13px; top: 10.11px; position: absolute; background: #F5F5F5"></div>
+            <div class="Vector" style="width: 10.11px; height: 8.67px; left: 14.44px; top: 13px; position: absolute; border: 1.21px #ACACAC solid"></div>
+          </div>
+          <div class="BxTv" style="width: 30px; height: 31px; position: relative">
+            <div class="Vector" style="width: 25px; height: 24.16px; left: 2.50px; top: 2.96px; position: absolute; background: #ACACAC"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="Frame123" style="height: 714px; left: 337px; top: 1102px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div class="Frame112" style="align-self: stretch; height: 238px; background: white; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 15px; display: flex">
+      <div class="Frame116" style="align-self: stretch; height: 172px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame110" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: flex-end; display: inline-flex">
+          <div class="EnglandVsPakistanTest" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England vs Pakistan Test</div>
+          <div class="BxBellPlus" style="width: 34px; height: 34px; position: relative">
+            <div class="Vector" style="width: 11.23px; height: 11.23px; left: 11.39px; top: 9.97px; position: absolute; background: #ACACAC"></div>
+            <div class="Vector" style="width: 25.50px; height: 28.33px; left: 4.25px; top: 2.83px; position: absolute; background: #ACACAC"></div>
+          </div>
+        </div>
+        <div class="Frame115" style="align-self: stretch; height: 128px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="Vector7" style="align-self: stretch; height: 0px; border: 1px #ACACAC solid"></div>
+          <div class="Frame114" style="align-self: stretch; height: 118px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+            <div class="Frame106" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="England" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England </div>
+              <div class="Pakistan" style="text-align: right; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pakistan</div>
+            </div>
+            <div class="Frame105" style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="Frame102" style="justify-content: flex-start; align-items: center; gap: 17px; display: flex">
+                <div class="Group9" style="width: 129px; height: 84px; position: relative">
+                  <div class="Rectangle46" style="width: 63px; height: 48px; left: 0px; top: 15px; position: absolute; background: #CF091F"></div>
+                  <img class="Ellipse12" style="width: 84px; height: 84px; left: 45px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                </div>
+                <div class="Indo" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">INDO</div>
+              </div>
+              <div class="TimeStatus" style="height: 24px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                <div class="H21m" style="text-align: center; color: #B40000; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">11h 21m</div>
+              </div>
+              <div class="Frame103" style="justify-content: center; align-items: center; display: flex">
+                <div class="Frame104" style="align-self: stretch; justify-content: flex-end; align-items: center; gap: 17px; display: inline-flex">
+                  <div class="Pak" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">PAK</div>
+                  <div class="Group9" style="width: 135px; height: 84px; position: relative">
+                    <div class="Rectangle46" style="width: 63px; height: 48px; left: 72px; top: 18px; position: absolute; background: rgba(73, 110, 45, 0.88)"></div>
+                    <img class="Ellipse12" style="width: 84px; height: 84px; left: 84px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="Frame109" style="align-self: stretch; height: 51px; padding-top: 10px; padding-bottom: 10px; padding-left: 41px; padding-right: 29px; background: #F5F5F5; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-top-left-radius: 12px; border-top-right-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame108" style="align-self: stretch; padding-left: 5px; padding-right: 18px; justify-content: space-between; align-items: center; display: inline-flex">
+          <div class="TeamOrMega" style="width: 119px; height: 19px; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+            <div class="Group6" style="width: 45px; height: 19px; position: relative">
+              <div class="Mega" style="left: 5px; top: 1px; position: absolute; color: #0F9E3A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Mega</div>
+              <div class="Rectangle31" style="width: 45px; height: 19px; left: 0px; top: 0px; position: absolute; border: 1px #0F9E3A solid"></div>
+            </div>
+            <div class="Frame68" style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+              <div class="Rs6Crore" style="color: #1A1A1A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Rs 6 crore</div>
+            </div>
+          </div>
+          <div class="Frame107" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div class="MajesticonsTShirtLine" style="width: 26px; height: 26px; position: relative">
+              <div class="Vector" style="width: 19.50px; height: 20.22px; left: 3.25px; top: 4.33px; position: absolute; border: 1.62px #ACACAC solid"></div>
+              <div class="Ellipse5" style="width: 13px; height: 13px; left: 13px; top: 10.11px; position: absolute; background: #F5F5F5"></div>
+              <div class="Vector" style="width: 10.11px; height: 8.67px; left: 14.44px; top: 13px; position: absolute; border: 1.21px #ACACAC solid"></div>
+            </div>
+            <div class="BxTv" style="width: 30px; height: 31px; position: relative">
+              <div class="Vector" style="width: 25px; height: 24.16px; left: 2.50px; top: 2.96px; position: absolute; background: #ACACAC"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame113" style="align-self: stretch; height: 238px; background: white; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 15px; display: flex">
+      <div class="Frame116" style="align-self: stretch; height: 172px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame110" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: flex-end; display: inline-flex">
+          <div class="EnglandVsPakistanTest" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England vs Pakistan Test</div>
+          <div class="BxBellPlus" style="width: 34px; height: 34px; position: relative">
+            <div class="Vector" style="width: 11.23px; height: 11.23px; left: 11.39px; top: 9.97px; position: absolute; background: #ACACAC"></div>
+            <div class="Vector" style="width: 25.50px; height: 28.33px; left: 4.25px; top: 2.83px; position: absolute; background: #ACACAC"></div>
+          </div>
+        </div>
+        <div class="Frame115" style="align-self: stretch; height: 128px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="Vector7" style="align-self: stretch; height: 0px; border: 1px #ACACAC solid"></div>
+          <div class="Frame114" style="align-self: stretch; height: 118px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+            <div class="Frame106" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="England" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England </div>
+              <div class="Pakistan" style="text-align: right; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pakistan</div>
+            </div>
+            <div class="Frame105" style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="Frame102" style="justify-content: flex-start; align-items: center; gap: 17px; display: flex">
+                <div class="Group9" style="width: 129px; height: 84px; position: relative">
+                  <div class="Rectangle46" style="width: 63px; height: 48px; left: 0px; top: 15px; position: absolute; background: #CF091F"></div>
+                  <img class="Ellipse12" style="width: 84px; height: 84px; left: 45px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                </div>
+                <div class="Ire" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">IRE</div>
+              </div>
+              <div class="TimeStatus" style="height: 24px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                <div class="H21m" style="text-align: center; color: #B40000; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">13h 21m</div>
+              </div>
+              <div class="Frame103" style="justify-content: flex-start; align-items: center; display: flex">
+                <div class="Frame104" style="align-self: stretch; justify-content: flex-end; align-items: center; gap: 17px; display: inline-flex">
+                  <div class="Hung" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">HUNG</div>
+                  <div class="Group9" style="width: 135px; height: 84px; position: relative">
+                    <div class="Rectangle46" style="width: 63px; height: 48px; left: 72px; top: 18px; position: absolute; background: rgba(73, 110, 45, 0.88)"></div>
+                    <img class="Ellipse12" style="width: 84px; height: 84px; left: 84px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="Frame109" style="align-self: stretch; height: 51px; padding-top: 10px; padding-bottom: 10px; padding-left: 41px; padding-right: 29px; background: #F5F5F5; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-top-left-radius: 12px; border-top-right-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame108" style="align-self: stretch; padding-left: 5px; padding-right: 18px; justify-content: space-between; align-items: center; display: inline-flex">
+          <div class="TeamOrMega" style="width: 119px; height: 19px; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+            <div class="Group6" style="width: 45px; height: 19px; position: relative">
+              <div class="Mega" style="left: 5px; top: 1px; position: absolute; color: #0F9E3A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Mega</div>
+              <div class="Rectangle31" style="width: 45px; height: 19px; left: 0px; top: 0px; position: absolute; border: 1px #0F9E3A solid"></div>
+            </div>
+            <div class="Frame68" style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+              <div class="Rs6Crore" style="color: #1A1A1A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Rs 6 crore</div>
+            </div>
+          </div>
+          <div class="Frame107" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div class="MajesticonsTShirtLine" style="width: 26px; height: 26px; position: relative">
+              <div class="Vector" style="width: 19.50px; height: 20.22px; left: 3.25px; top: 4.33px; position: absolute; border: 1.62px #ACACAC solid"></div>
+              <div class="Ellipse5" style="width: 13px; height: 13px; left: 13px; top: 10.11px; position: absolute; background: #F5F5F5"></div>
+              <div class="Vector" style="width: 10.11px; height: 8.67px; left: 14.44px; top: 13px; position: absolute; border: 1.21px #ACACAC solid"></div>
+            </div>
+            <div class="BxTv" style="width: 30px; height: 31px; position: relative">
+              <div class="Vector" style="width: 25px; height: 24.16px; left: 2.50px; top: 2.96px; position: absolute; background: #ACACAC"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="Frame114" style="align-self: stretch; height: 238px; background: white; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 15px; display: flex">
+      <div class="Frame116" style="align-self: stretch; height: 172px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame110" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: flex-end; display: inline-flex">
+          <div class="EnglandVsPakistanTest" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England vs Pakistan Test</div>
+          <div class="BxBellPlus" style="width: 34px; height: 34px; position: relative">
+            <div class="Vector" style="width: 11.23px; height: 11.23px; left: 11.39px; top: 9.97px; position: absolute; background: #ACACAC"></div>
+            <div class="Vector" style="width: 25.50px; height: 28.33px; left: 4.25px; top: 2.83px; position: absolute; background: #ACACAC"></div>
+          </div>
+        </div>
+        <div class="Frame115" style="align-self: stretch; height: 128px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div class="Vector7" style="align-self: stretch; height: 0px; border: 1px #ACACAC solid"></div>
+          <div class="Frame114" style="align-self: stretch; height: 118px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+            <div class="Frame106" style="align-self: stretch; padding-left: 46px; padding-right: 46px; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="England" style="text-align: center; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">England </div>
+              <div class="Pakistan" style="text-align: right; color: #797979; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Pakistan</div>
+            </div>
+            <div class="Frame105" style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+              <div class="Frame102" style="justify-content: flex-start; align-items: center; gap: 17px; display: flex">
+                <div class="Group9" style="width: 129px; height: 84px; position: relative">
+                  <div class="Rectangle46" style="width: 63px; height: 48px; left: 0px; top: 15px; position: absolute; background: #CF091F"></div>
+                  <img class="Ellipse12" style="width: 84px; height: 84px; left: 45px; top: 0px; position: absolute; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                </div>
+                <div class="Sri" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">SRI</div>
+              </div>
+              <div class="TimeStatus" style="height: 24px; justify-content: center; align-items: center; gap: 4px; display: flex">
+                <div class="H21m" style="text-align: center; color: #B40000; font-size: 20px; font-family: Inter; font-weight: 500; word-wrap: break-word">16h 21m</div>
+              </div>
+              <div class="Frame103" style="justify-content: center; align-items: center; display: flex">
+                <div class="Frame104" style="align-self: stretch; justify-content: flex-end; align-items: center; gap: 17px; display: inline-flex">
+                  <div class="Usa" style="text-align: center; color: black; font-size: 20px; font-family: Inter; font-weight: 700; word-wrap: break-word">USA</div>
+                  <div class="Group9" style="width: 135px; height: 84px; position: relative">
+                    <div class="Rectangle46" style="width: 63px; height: 48px; left: 72px; top: 18px; position: absolute; background: rgba(73, 110, 45, 0.88)"></div>
+                    <img class="Ellipse12" style="width: 84px; height: 84px; left: 84px; top: 0px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; border-radius: 9999px; border: 1px black solid" src="https://via.placeholder.com/84x84" />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="Frame109" style="align-self: stretch; height: 51px; padding-top: 10px; padding-bottom: 10px; padding-left: 41px; padding-right: 29px; background: #F5F5F5; box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05); border-top-left-radius: 12px; border-top-right-radius: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+        <div class="Frame108" style="align-self: stretch; padding-left: 5px; padding-right: 18px; justify-content: space-between; align-items: center; display: inline-flex">
+          <div class="TeamOrMega" style="width: 119px; height: 19px; justify-content: flex-start; align-items: center; gap: 5px; display: flex">
+            <div class="Group6" style="width: 45px; height: 19px; position: relative">
+              <div class="Mega" style="left: 5px; top: 1px; position: absolute; color: #0F9E3A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Mega</div>
+              <div class="Rectangle31" style="width: 45px; height: 19px; left: 0px; top: 0px; position: absolute; border: 1px #0F9E3A solid"></div>
+            </div>
+            <div class="Frame68" style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+              <div class="Rs6Crore" style="color: #1A1A1A; font-size: 15px; font-family: Roboto; font-weight: 700; word-wrap: break-word">Rs 6 crore</div>
+            </div>
+          </div>
+          <div class="Frame107" style="justify-content: flex-start; align-items: center; gap: 10px; display: flex">
+            <div class="MajesticonsTShirtLine" style="width: 26px; height: 26px; position: relative">
+              <div class="Vector" style="width: 19.50px; height: 20.22px; left: 3.25px; top: 4.33px; position: absolute; border: 1.62px #ACACAC solid"></div>
+              <div class="Ellipse5" style="width: 13px; height: 13px; left: 13px; top: 10.11px; position: absolute; background: #F5F5F5"></div>
+              <div class="Vector" style="width: 10.11px; height: 8.67px; left: 14.44px; top: 13px; position: absolute; border: 1.21px #ACACAC solid"></div>
+            </div>
+            <div class="BxTv" style="width: 30px; height: 31px; position: relative">
+              <div class="Vector" style="width: 25px; height: 24.16px; left: 2.50px; top: 2.96px; position: absolute; background: #ACACAC"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="MyMatches" style="left: 340px; top: 321px; position: absolute; text-align: center; color: white; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">My Matches</div>
+  <div class="ViewAll" style="left: 1157px; top: 341px; position: absolute; text-align: center; color: white; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">View All</div>
+  <div class="Rectangle43" style="width: 314px; height: 1744px; left: 1px; top: 122px; position: absolute; background: #DFC1C1"></div>
+  <div class="TablerMathGreater" style="width: 20px; height: 20px; padding-left: 4.17px; padding-right: 4.17px; padding-top: 5px; padding-bottom: 5px; left: 1238px; top: 345px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+    <div class="Vector" style="width: 11.67px; height: 10px; border: 1.67px white solid"></div>
+  </div>
+  <div class="Group12" style="width: 924px; height: 230px; left: 330px; top: 734px; position: absolute">
+    <div class="MaskGroup" style="width: 916.95px; height: 189.56px; left: 7.05px; top: 2.53px; position: absolute">
+      <div class="Rectangle47" style="width: 916.95px; height: 189.56px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 10px"></div>
+      <div class="Ellipse13" style="width: 437.31px; height: 336.15px; left: -39.97px; top: -80.88px; position: absolute; background: linear-gradient(96deg, #170241 0%, #4D0056 50%, #6C0040 100%); box-shadow: 13.399999618530273px 13.399999618530273px 13.399999618530273px; border-radius: 9999px; filter: blur(13.40px)"></div>
+      <div class="Ellipse14" style="width: 707.69px; height: 550.99px; left: 256.27px; top: -179.45px; position: absolute; background: linear-gradient(266deg, #3C1011 0%, #860000 50%, #64000B 100%); box-shadow: 26.600000381469727px 26.600000381469727px 26.600000381469727px; border-radius: 9999px; filter: blur(26.60px)"></div>
+    </div>
+    <img class="UntitledRemovebgPreview1" style="width: 228.06px; height: 171.87px; left: 670.08px; top: 20.22px; position: absolute" src="https://via.placeholder.com/228x172" />
+    <img class="UntitledRemovebgPreview1" style="width: 296.24px; height: 192.09px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/296x192" />
+    <img class="OpenGiftBoxWithGoldConfettiIsolatedWhiteBackgroundVector1" style="width: 159.88px; height: 214.84px; left: 206.90px; top: 15.16px; position: absolute" src="https://via.placeholder.com/160x215" />
+    <div class="Group11" style="width: 93.38px; height: 90.99px; left: 239.82px; top: 90.99px; position: absolute">
+      <img class="FreepikExport202407230537165oho1" style="width: 93.38px; height: 90.99px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/93x91" />
+      <div class="Group15" style="width: 22.28px; height: 27.68px; left: 35.81px; top: 38.54px; position: absolute">
+        <div class="Vector32" style="width: 9.68px; height: 3.30px; left: 2.52px; top: 14.93px; position: absolute; border: 0.50px #A9D7C3 solid"></div>
+        <div class="Vector33" style="width: 13.53px; height: 9.99px; left: 2.79px; top: 1.79px; position: absolute; border: 0.50px #A9D7C3 solid"></div>
+        <div class="Vector34" style="width: 22.28px; height: 22.43px; left: 0px; top: 0px; position: absolute; border: 1px #A9D7C3 solid"></div>
+        <div class="Vector35" style="width: 1.61px; height: 2.73px; left: 18.84px; top: 7.18px; position: absolute; border: 1px #A9D7C3 solid"></div>
+        <div class="Vector36" style="width: 8.93px; height: 4.71px; left: 8.70px; top: 22.35px; position: absolute; border: 1px #A0CDBB solid"></div>
+        <div class="Vector37" style="width: 8.43px; height: 2.43px; left: 7.12px; top: 21.45px; position: absolute; border: 1px #A0CDBB solid"></div>
+        <div class="Vector38" style="width: 4.97px; height: 3.39px; left: 9.35px; top: 23.11px; position: absolute; border: 1px #A0CDBB solid"></div>
+        <div class="Vector39" style="width: 2.33px; height: 0.76px; left: 15.90px; top: 26.92px; position: absolute; border: 1px #A0CDBB solid"></div>
+      </div>
+    </div>
+    <div class="InviteAndSaveBig" style="width: 367.99px; height: 40.59px; left: 316.71px; top: 45.42px; position: absolute; text-align: center; color: #FECE07; font-size: 32px; font-family: Inter; font-weight: 800; word-wrap: break-word">Invite and save Big</div>
+    <div class="CollectUpToRs1000CashBonusPerFriend" style="width: 376.18px; height: 68.24px; left: 333.86px; top: 85.93px; position: absolute; text-align: center"><span style="color: #FEFBFB; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">collect up to </span><span style="color: #FECE07; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word">rs 1000</span><span style="color: #FEFBFB; font-size: 20px; font-family: Inter; font-weight: 600; word-wrap: break-word"> cash bonus <br/>per friend</span></div>
+  </div>
+  <div class="Group17" style="width: 68px; height: 20px; left: 766px; top: 985px; position: absolute">
+    <div class="Ellipse15" style="width: 20px; height: 20px; left: 24px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+    <div class="Ellipse17" style="width: 20px; height: 20px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 9999px"></div>
+    <div class="Ellipse16" style="width: 20px; height: 20px; left: 48px; top: 0px; position: absolute; background: #797979; border-radius: 9999px"></div>
+  </div>
+  <div class="UpComingMatches" style="left: 338px; top: 1015px; position: absolute; text-align: center; color: black; font-size: 30px; font-family: Inter; font-weight: 600; word-wrap: break-word">Up Coming Matches :</div>
+  <div class="Frame124" style="width: 314px; height: 1230px; left: 1px; top: 154px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 148px; display: inline-flex">
+    <div class="MenuHome" style="align-self: stretch; height: 88px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div class="HeroiconsOutlineHome" style="width: 60px; height: 60px; position: relative">
+        <div class="Vector2" style="width: 36.43px; height: 47.14px; left: 10.71px; top: 7.50px; position: absolute"></div>
+        <div class="Vector" style="width: 45px; height: 49.29px; left: 6.43px; top: 6.43px; position: absolute; border: 2px #787878 solid"></div>
+      </div>
+      <div class="Home" style="text-align: center; color: #787878; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Home</div>
+    </div>
+    <div class="MenuMatches" style="align-self: stretch; height: 88px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div class="IconParkOutlineTrophy" style="width: 60px; height: 60px; padding-top: 7.14px; padding-bottom: 5.36px; padding-left: 5px; padding-right: 5px; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Group" style="width: 50px; height: 47.50px; position: relative">
+          <div class="Vector" style="width: 30px; height: 32.50px; left: 10px; top: 0px; position: absolute; background: #FFCECF; border: 2px #E10103 solid"></div>
+          <div class="Vector" style="width: 50px; height: 12.50px; left: -0px; top: 8.75px; position: absolute; border: 2px #E10103 solid"></div>
+          <div class="Vector" style="width: 0px; height: 5px; left: 25px; top: 35px; position: absolute; border: 2px #E10103 solid"></div>
+          <div class="Vector" style="width: 22.50px; height: 7.50px; left: 13.75px; top: 40px; position: absolute; border: 2px #E10103 solid"></div>
+        </div>
+      </div>
+      <div class="MyMatches" style="text-align: center; color: #E10103; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">My Matches</div>
+    </div>
+    <div class="MenuWinners" style="align-self: stretch; height: 88px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div class="IonRibbonOutline" style="width: 60px; height: 60px; position: relative">
+        <div class="Vector" style="width: 27.23px; height: 29.55px; left: 5.62px; top: 26.70px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+        <div class="Vector" style="width: 24.38px; height: 30px; left: 30px; top: 26.25px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+        <div class="Vector" style="width: 30px; height: 30px; left: 15px; top: 3.75px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+        <div class="Vector" style="width: 15px; height: 15px; left: 22.50px; top: 11.25px; position: absolute; border: 2px #787878 solid"></div>
+      </div>
+      <div class="Winners" style="text-align: center; color: #787878; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Winners</div>
+    </div>
+    <div class="MenuChat" style="align-self: stretch; height: 88px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div class="IconParkOutlineMessageOne" style="width: 60px; padding-top: 4.29px; padding-bottom: 6.43px; padding-left: 4.29px; padding-right: 4.29px; justify-content: center; align-items: center; display: inline-flex">
+        <div class="Group" style="width: 51.43px; height: 49.29px; position: relative">
+          <div class="Vector" style="width: 51.43px; height: 49.29px; left: 0px; top: 0px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+          <div class="Vector" style="width: 27.50px; height: 0px; left: 11.97px; top: 19.36px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+        </div>
+      </div>
+      <div class="Chat" style="text-align: center; color: #787878; font-size: 20px; font-family: Inter; font-weight: 400; word-wrap: break-word">Chat</div>
+    </div>
+    <div class="MenuRewards" style="align-self: stretch; height: 82px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+      <div class="Frame57" style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: flex">
+        <div class="IconParkOutlineGift" style="width: 60px; height: 60px; padding: 5px; justify-content: center; align-items: center; display: inline-flex">
+          <div class="Group" style="flex: 1 1 0; align-self: stretch; position: relative">
+            <div class="Vector" style="width: 42.50px; height: 30px; left: 3.75px; top: 20px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+            <div class="Vector" style="width: 50px; height: 10px; left: 0px; top: 10px; position: absolute; background: #F5F5F5; border: 2px #787878 solid"></div>
+            <div class="Vector" style="width: 20px; height: 10px; left: 15px; top: 0px; position: absolute; border: 2px #787878 solid"></div>
+          </div>
+        </div>
+      </div>
+      <div class="Rewards" style="text-align: center; color: #787878; font-size: 15px; font-family: Inter; font-weight: 700; word-wrap: break-word">Rewards</div>
+    </div>
+  </div>
+</div>
